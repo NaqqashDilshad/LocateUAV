@@ -12,4 +12,4 @@ Paper Link: https://ieeexplore.ieee.org/document/9743410
 
 
 # Citation and acknowledgements
-CITATION.cff
+CITATION
