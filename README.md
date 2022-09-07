@@ -12,11 +12,4 @@ Paper Link: https://ieeexplore.ieee.org/document/9743410
 
 
 # Citation and acknowledgements
-@article{dilshad2022locateuav,
-  title={LocateUAV: Unmanned Aerial Vehicle Location Estimation via Contextual Analysis in an IoT Environment},
-  author={Dilshad, Naqqash and Ullah, Amin and Kim, Jaeho and Seo, Jeongwook},
-  journal={IEEE Internet of Things Journal},
-  year={2022},
-  publisher={IEEE}
-}
-
+CITATION.cff
