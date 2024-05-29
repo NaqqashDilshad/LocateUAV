@@ -1,9 +1,9 @@
-# LocateUAV
-Paper Link: https://ieeexplore.ieee.org/document/9743410
+Hello Researchers
 
-# Contents
-1. Introduction
-2. The proposed LocateUAV Framework
-3. Requirements and how to run?
-4. Quantitative and qualitative comparisons
-5. Citation and acknowledgements
+I hope you are well
+
+For LocateUAV dataset please reach me out at dilshad.naqqash@gmail.com
+
+Thank you
+
+Paper Link: https://ieeexplore.ieee.org/document/9743410
